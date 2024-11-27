@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBrendon&layout=compact&theme=dracula)](https://github.com/GustavoBrendon/github-readme-stats)
 
-🔭 Studying Bachelor's degree in Information Systems, at the Federal Institute of Education, Science and Technology of Minas Gerais, Campus São João Evangelista. Always aiming for more 😄
+😄 Studying Bachelor's degree in Information Systems, at the Federal Institute of Education, Science and Technology of Minas Gerais, Campus São João Evangelista. Always aiming for more!

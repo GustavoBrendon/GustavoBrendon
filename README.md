@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FA2A3A&center=true&width=435&lines=Hi!+I'm+Gustavo+Brendon+🖐️)](https://git.io/typing-svg)
 
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999450505&text=Ol%C3%A1!%20Estou%20entrando%20em%20contato%20com%20voc%C3%AA%20ap%C3%B3s%20ter%20visitado%20sua%20p%C3%A1gina%20no%20Github.)
+[![Portifólio](https://img.shields.io/badge/PORTIFOLIO-291d21?style=for-the-badge&logo=portifolio&logoColor=black)](https://gustavobrendon.github.io/Porti-lio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhgomes_b/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-brendon-51a2a3251/)<br>
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBrendon&show_icons=true&theme=dracula)
